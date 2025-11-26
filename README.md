@@ -123,7 +123,7 @@ cd forex-regulation-economic-growth
 **Luisa Gabriela Hernández Laverde**  
 Bogotá, Colombia  
 
-Business Administration & International Relations — Pontificia Universidad Javeriana  
+Business Administration & International Relations: Pontificia Universidad Javeriana  
 
 Areas of interest:  
 - Macroeconomics  
