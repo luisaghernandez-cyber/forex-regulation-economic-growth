@@ -71,7 +71,7 @@ The dataset is prepared through the following steps:
 
 ---
 
-## **3. Visualization**
+**3. Visualization**
 
 The notebook includes time-series plots for:
 
@@ -84,7 +84,7 @@ These visualizations help detect trends, volatility patterns, and macroeconomic 
 
 ---
 
-## **4. Econometric Model**
+ **4. Econometric Model**
 
 A simple OLS model is estimated using the `statsmodels` library:
 
@@ -94,9 +94,10 @@ GDP_growth = β0 + β1 * Inflation + β2 * FDI + β3 * FX_Activity + ε
 
 This provides a baseline to observe directional relationships between macroeconomic variables and growth.
 
-## 5. How to Run the Notebook
 
-### Option 1 — Google Colab (Recommended)
+**5. How to Run the Notebook**
+
+Option 1 — Google Colab (Recommended)
 
 Click the badge below to open the notebook directly in Google Colab:
 
@@ -106,9 +107,9 @@ This option requires no installation and runs entirely in the cloud.
 
 ---
 
-### Option 2 — Run Locally
+ Option 2 — Run Locally
 
-#### 1. Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/luisaghernandez-cyber/forex-regulation-economic-growth.git
 cd forex-regulation-economic-growth
@@ -117,7 +118,7 @@ cd forex-regulation-economic-growth
 
 3. Launch Jupyter notebook: pip install pandas matplotlib requests statsmodels.
 
-## 6. Contact
+**6. Contact**
 
 **Luisa Gabriela Hernández Laverde**  
 Bogotá, Colombia  
