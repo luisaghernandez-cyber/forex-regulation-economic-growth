@@ -56,7 +56,7 @@ They are commonly used as a **proxy for FX market activity** in emerging economi
 
  **1. Data Extraction**
 All variables are extracted directly via API using the `requests` library:
-```python
+python
 response = requests.get(url).json()
 data = pd.DataFrame(response[1])
 
@@ -97,7 +97,7 @@ This provides a baseline to observe directional relationships between macroecono
 
 **5. How to Run the Notebook**
 
-Option 1 — Google Colab (Recommended)
+**Option 1** — Google Colab (Recommended)
 
 Click the badge below to open the notebook directly in Google Colab:
 
@@ -107,7 +107,7 @@ This option requires no installation and runs entirely in the cloud.
 
 ---
 
- Option 2 — Run Locally
+**Option 2** — Run Locally
 
 1. Clone the repository:
 
